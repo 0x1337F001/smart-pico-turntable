@@ -6,6 +6,11 @@ This repository contains the MicroPython firmware for a 3D-printable, web-contro
 The turntable can be controlled via a responsive web interface that works on both desktop and mobile devices.
 
 ![Smart-Pico-Turntable](/assets/images/1.jpg) ![Smart-Pico-Turntable](/assets/images/3.jpg)
+
+## Disclaimer
+
+This was completely vibe-coded with Gemini 2.5 Pro.
+
 ## Features
 
 - **Responsive Web Interface:** Control the turntable from any device with a web browser.
