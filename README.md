@@ -7,6 +7,8 @@ The turntable can be controlled via a responsive web interface that works on bot
 
 ![Smart-Pico-Turntable](/assets/images/1.jpg) ![Smart-Pico-Turntable](/assets/images/3.jpg)
 
+3D files are available at [MakerWorld](https://makerworld.com/en/models/1579183).
+
 ## Disclaimer
 
 This was completely vibe-coded with Gemini 2.5 Pro.
