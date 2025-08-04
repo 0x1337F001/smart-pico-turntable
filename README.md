@@ -34,6 +34,10 @@ This was completely vibe-coded with Gemini 2.5 Pro.
    - If it cannot connect, it will start its own Access Point (AP). Connect to this AP (default SSID is `SmartTurntableAP`, default password is `your_strong_password`).
    - Navigate to the device's IP address in a web browser and go to the "Settings" page to configure your Wi-Fi credentials, hardware version, and other preferences.
    - Alternatively you can configure your Wi-Fi credentials by editing the `config.json`.
+  
+## Wiring
+![Wiring Diagram](/assets/images/diagram.png)
+
 ## Dependencies
 
 This project relies on the following excellent open-source libraries.
